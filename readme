@@ -1,0 +1,3 @@
+This project is the implementaion of Metacircular Evaluator of Scheme in Python.
+The idea of the project came from reading the book 'SICP'(Structure and Interpretation of Computer Programs). The original metacircular evaluator of Scheme is given in the book.
+This project contain some of the features of Scheme implemented in Python.
